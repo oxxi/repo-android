@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="darkPrimaryColor">#303F9F</color>
+    <color name="primariColor">#3F51B5</color>
+    <!--color name="primariColor">#C2185B</color-->
+    <color name="lightPrimaryColor">#C5CAE9</color>
+    <color name="textAndIcons">#FFFFFF</color>
+    <color name="accentColor">#448AFF</color>
+    <color name="primaryText">#212121</color>
+    <color name="secundaryText">#727272</color>
+    <color name="colorDivergente">#B6B6B6</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorHighLight">#B6B6B6</color>
+    <color name="statusEntregado">#388E3C</color>
+    <color name="statusFinalizado">#4CAF50</color>
+    <color name="statusIniciado">#1975D2</color>
+    <color name="statusSolicitado">#FF5722</color>
+</resources>
