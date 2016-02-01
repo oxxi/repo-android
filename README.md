@@ -1,6 +1,6 @@
 repo-android
 ============
 
-+application prototypes
++application prototypes and others
 
 ejercicios de aplicaciones android
